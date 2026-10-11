@@ -1,110 +1,66 @@
-# FULL STACK AI/ML DEVELOPER
+# AI-ML-DEVELOPER 🤖
 
-You don’t become a “full-stack AI/ML developer” by vaguely learning Python + some models.
+### From Data to Intelligence. From Models to Real-World Applications.
 
-You build **layered competence across 5 stacks simultaneously**: programming, data, ML theory, systems, and deployment.
+Welcome to **AI-ML-DEVELOPER** — my evolving repository for exploring, implementing, and building with Artificial Intelligence, Machine Learning, and Data Science.
 
-Most people fail because they skip systems and deployment.
+This repository brings together my technical learning, hands-on implementations, experiments, and practical explorations across the AI ecosystem. From understanding the mathematical foundations of machine learning to experimenting with LLMs and agentic systems, the focus is on turning concepts into working code and building a deeper understanding of how intelligent systems work.
 
----
+## 🧠 Exploring the AI Ecosystem
 
-# Python Basics
+The repository spans multiple areas of AI and software development:
 
-[Python Crash Course in Hindi | 5 Python Projects | Complete Python Tutorial](https://www.youtube.com/watch?v=fqF9M92jzUo&t=7796s)
+- **Programming & Data Science** — Python, statistics, data manipulation, exploratory data analysis, and data preprocessing.
+- **Machine Learning** — Regression, classification, clustering, feature engineering, model selection, and evaluation.
+- **Deep Learning** — Neural networks, representation learning, and modern approaches to learning from data.
+- **Natural Language Processing** — Text processing, vectorization, text classification, and language representation.
+- **Computer Vision** — Image processing and techniques for extracting meaningful information from visual data.
+- **Generative AI & LLMs** — Large language models, embeddings, semantic search, and Retrieval-Augmented Generation (RAG).
+- **Agentic AI** — AI agents, tool calling, multi-step workflows, and intelligent task orchestration.
+- **Data Analytics & Business Intelligence** — Data-driven insights, visualization, and analytical reporting.
+- **AI Application Development** — APIs, interactive applications, and integrating AI models into usable software.
 
-[Python Projects for Beginners – Master Problem-Solving! 🚀](https://www.youtube.com/watch?v=yVl_G-F7m8c&list=WL&index=1&pp=iAQBsAgC)
+## ⚙️ Technologies & Tools
 
----
+`Python` · `NumPy` · `Pandas` · `Scikit-learn` · `TensorFlow` · `Keras` · `OpenCV` · `NLP` · `Generative AI` · `LangChain` · `LangGraph` · `ChromaDB` · `FastAPI` · `Flask` · `Streamlit` · `Power BI`
 
-# PANDAS , NUMPY
+## 🔬 The Philosophy Behind This Repository
 
-- https://www.youtube.com/watch?v=EXIgjIBu4EU
-- https://www.youtube.com/watch?v=zI5ducyfyNc
+AI is more than algorithms and model training. It is about understanding data, identifying the right approach, evaluating outcomes, and developing solutions that are useful beyond a notebook.
 
----
+My approach is built around:
 
-# Machine Learning Basics
+**Learn → Implement → Experiment → Evaluate → Integrate → Improve**
 
-- https://www.youtube.com/watch?v=1L420xXpDTg&t=7730s
-- https://www.youtube.com/watch?v=Lb0JzFtTmBs&t=2611s
-- https://www.youtube.com/watch?v=omGvjpmPDoY&t=6321s
-- https://www.youtube.com/watch?v=UFAHXZW2hU8&t=698s
+Rather than treating concepts as isolated topics, I aim to understand their practical applications, compare different approaches, learn from failures, and progressively develop stronger engineering skills.
 
----
+This repository is a continuous record of that process — a place to experiment, revisit fundamentals, explore emerging technologies, and turn knowledge into implementation.
 
-# Frontend
+## 🚀 What's Ahead?
 
-- https://www.youtube.com/watch?v=o8p7uQCGD0U
-- https://www.youtube.com/watch?v=msLovKSj8Q0
+My current focus is on deepening my understanding of machine learning and data science while exploring the next generation of AI systems:
 
----
+- Generative AI and LLM-powered applications
+- Retrieval-Augmented Generation and knowledge systems
+- Agentic AI and multi-agent orchestration
+- Data engineering and modern data platforms
+- Model serving, deployment, and MLOps
+- End-to-end AI solutions for real-world problems
 
-# PowerBI
+## 👩‍💻 About Me
 
-- https://www.youtube.com/watch?v=Te8ROybkRnQ&t=220s
+I'm **Anushka Jagtap**, a Computer Science and Business Systems undergraduate passionate about Artificial Intelligence, Machine Learning, Generative AI, and Data Engineering.
 
----
+I'm interested in understanding how intelligent systems work under the hood and applying that knowledge to build practical, reliable, and impactful applications.
 
-# Database
+**Connect with me:**
 
-- https://www.youtube.com/watch?v=p1epCuYb5OQ
-
----
-
-# EMAIL SMS CLASSIFIER
-
-- https://www.youtube.com/watch?v=YncZ0WwxyzU&t=5634s
-
----
-
-# Backend
-
-- https://www.youtube.com/watch?v=02dzgC_Ba70&t=263s
-- https://www.youtube.com/watch?v=Rf9jbnzt2UU&t=90s
-- https://www.youtube.com/watch?v=Fmw1i1cBYq4
-- https://www.youtube.com/watch?v=M-DzoNzmJI0
-- https://www.youtube.com/watch?v=2NfTEi1CyYs&pp=0gcJCQQLAYcqIYzv
-- https://www.youtube.com/watch?v=XMoK33jsgcs
-- https://www.youtube.com/watch?v=uy4TPngK-8c&t=106s
-- https://www.youtube.com/watch?v=WCOOFySgmnQ
-- https://www.youtube.com/watch?v=V0FUealWanc
-- https://www.youtube.com/watch?v=lm0uRxLMwb8
-- https://www.youtube.com/watch?v=TzXQwHBDEPc
-- https://www.youtube.com/watch?v=FN_BvbOwur0
-- https://www.youtube.com/watch?v=IR_EqMAlJZE
+- GitHub: [@AnushkaJagtap22](https://github.com/AnushkaJagtap22)
+- LinkedIn: [Anushka Jagtap](https://www.linkedin.com/in/anushkajagtap/)
+- Email: [anushkajagtap2212@gmail.com](mailto:anushkajagtap2212@gmail.com)
 
 ---
 
-# PyTorch
+⭐ If you find something useful here, feel free to star the repository or share your feedback.
 
-[AI Engineering Full Course (PyTorch) 2026 UPDATED | Beginner to Advanced | One Shot | Sagar Chouksey](https://www.youtube.com/watch?v=UqA7bxp7VBk)
-
----
-
-# NLP
-
-[Learn Complete NLP with Project (Bag of Words, Tf-idf) | For Beginners](https://www.youtube.com/watch?v=yiNS_Sh9KDA)
-
----
-
-# Transformers
-
-[Deep Learning Complete Course | Part 4 | Transformers & Attention Mechanism Completely Explained](https://www.youtube.com/watch?v=i2tlbIGyzKk)
-
----
-
-# Gen AI
-
-[Generative AI Full Course (Part 1 ) | Beginner to Advanced | LangChain, LLMs & Prompt Engineering](https://www.youtube.com/watch?v=vwncYfhxbR0&t=686s)
-
-[Generative AI Full Course (Part 2) | Document Loaders, Text Splitters, Vector DB, RAG & LangChain](https://www.youtube.com/watch?v=yodh-oEFnb4)
-
-[Generative AI Full Course (Part 3) | Tools, AI Agents, Tool Calling, APIs & LangChain](https://www.youtube.com/watch?v=CUDT5E6jz84&t=36s)
-
----
-
-# Docker + Cloud(AWS)
-
-- Linux Basics
-
----
+*Curiosity drives the learning. Code turns it into reality.*
